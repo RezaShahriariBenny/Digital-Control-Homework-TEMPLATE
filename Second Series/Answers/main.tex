@@ -128,7 +128,20 @@
     \end{figure}
     
     \begin{problem}{سوال پنجم}
+    	\lr{Based on what we have seen in Section 3.4 of Digital control systems by C.L.Phillips (2015) we have:}
     	
+    		\begin{equation}
+    			{{E}^{*}}(s)=\sum\limits_{\begin{smallmatrix} 
+    					at\,poles\, \\ 
+    					of\,E(\lambda ) 
+    			\end{smallmatrix}}{[residues\,of\,E(\lambda )}\frac{1}{1-{{\varepsilon }^{-T(s-\lambda )}}}]
+    		\end{equation}
+    		
+    		\raggedleft
+    		\lr{The Starred transform would be as noted bellow:}
+    		\centering
+    		
+    		$\frac{2}{1-e^{-Ts}} + \frac{-1}{1-e^{T(s+1)}}$
     	
     \end{problem}
 \raggedleft    
@@ -136,14 +149,53 @@
 \centering
 حل \underline{دو سوال} از این بخش الزامی است.
 \begin{problem}{سوال ششم}
+	\raggedleft
+	\lr{For the first part you can substitute k in the given range to calculate what is asked.}
+	
+	\lr{Second Part:}
+	
+	\lr{recall that we had :}
+	
+	$y(k+2) = Z^2Y(z) - Zy(1) - y(0)$
+	
+	\lr{now take z transform from the difference equation:}
+	
+	$Z^2Y(z) - \frac{3}{4}ZY(z) + \frac{1}{8}Y(z) = E(z) $
+	
+	$(Z^2 - \frac{3}{4}Z + \frac{1}{8}) Y(z) = E(z)$
+	
+	$\frac{Y(z)}{E(z)} = \frac{1}{Z^2 - \frac{3}{4}Z + \frac{1}{8}}$
+	
+	\lr{The transfer function is unstable.}
+	
 	
 
 \end{problem}
 	
 
 \begin{problem}{سوال هفتم}
+	\raggedleft
+	\lr{Based on the block diagram we have:}
 	
+	$y(k) = \beta_2 e(k) + \beta_1 e(k-1) + \beta_0 e(k-2) - \alpha_1 y(k-1) - \alpha_0 y(k-2)$
 	
+	\lr{Take z transform:}
+	
+	$(1 + \alpha_1 Z^{-1} + \alpha_0 Z^{-2}) Y(z) = (\beta_2 + \beta_1 Z^{-1} \beta_0 Z^{-2})E(z)$
+	
+	\lr{Find the transfer function:}
+	
+	$\frac{Y(z)}{E(z)} = \frac{(\beta_2 + \beta_1 Z^{-1}+ \beta_0 Z^{-2})}{(1 + \alpha_1 Z^{-1} + \alpha_0 Z^{-2})} $
+	
+	\lr{Which would be equal to :}
+	
+	$\frac{Y(z)}{E(z)} = \frac{(\beta_2Z^2 + \beta_1 Z+ \beta_0)}{(Z^2 + \alpha_1 Z + \alpha_0)} $
+	
+	\lr{So we would have:}
+	
+	$\beta_2 = 2, \beta_1 = -2.4, \beta_0 = 0.72 $
+	
+	$\alpha_1 = -1.4, \alpha_0 = 0.98 $
 	
 \end{problem}
 \begin{figure}
@@ -152,6 +204,35 @@
 \end{figure}
 
 \begin{problem}{سوال هشتم}
+	\raggedleft
+	\lr{The block diagram represents the following difference equation:}
+	
+	$f(k) = -\alpha_1f(k-1) -\alpha_0f(k-2) + e(k)$
+	
+	$y(k) = b_2f(k) + b_1f(k-1) + b_0f(k-2)$
+	
+	\lr{Now take the z-transform:}
+	
+	$F(z) = (-\alpha_1Z^{-1} + -\alpha_0Z^{-2})F(z) + E(z)$
+	
+	$Y(z) = (b_2 + b_1Z^{-1} + b_0Z^{-2})F(z)$
+	
+	\lr{Now derive the transfer function:}
+	
+	$\frac{F(z)}{E(z)} = \frac{1}{1 + \alpha_1Z^{-1} + \alpha_0Z^{-2}}$
+	
+	$\frac{Y(z)}{F(z)} = (b_2 + b_1Z^{-1} + b_0Z^{-2})$
+	
+	$\frac{Y(z)}{E(z)} = \frac{b_2 + b_1Z^{-1} + b_0Z^{-2}}{1 + \alpha_1Z^{-1} + \alpha_0Z^{-2}}$
+	
+	\lr{Which is equivalent to :}
+	
+	$\frac{Y(z)}{E(z)} = \frac{b_2Z^2 + b_1Z + b_0}{Z^2 + \alpha_1Z + \alpha_0}$
+	
+	$b_2 = 2, b_1 = -2.4, b_0 = 0.72 $
+	
+	$\alpha_1 = -1.4, \alpha_0 = 0.98 $
+	
 
 
 
@@ -164,27 +245,68 @@
 
 
 \begin{problem}{سوال نهم}
+	\raggedleft
+	\lr{Recall the following equation:}
+	
+	$G(z)=(1-{{z}^{-1}})\,{{Z}^{-1}}\{\frac{G(s)}{s}\}$
+	
+	\lr{using the equation we have the following ZOH-equavalent transfer function:}
+	
+	$\frac{1}{2} + \frac{-e(1-Z^{-1})}{1- e^{-T}Z^{-1}} + \frac{\frac{1}{2} e^2(1-Z^{-1})}{1-e^{-2T}Z^{-1}}$
+	
+	\lr{Where T must be substituted to 0.5}
+	
 
-
-
-
-
+	
 \end{problem}
-
-
 \begin{problem}{سوال دهم}
+	\raggedleft
+	\lr{recall that :}
 	
+	\centering
+	\begin{equation}
+		\cos \omega n\overset{*}{\longleftrightarrow}[\frac{{{e}^{sT}}({{e}^{sT}}-\cos \omega )}{{{e}^{2sT}}-2{{e}^{sT}}\cos \omega +1}]
+	\end{equation}
 	
+	\raggedleft
+	\lr{now calculate it for the two given functions}
+	
+	$1) [\frac{{{e}^{sT}}({{e}^{sT}}-\cos 4\pi T )}{{{e}^{2sT}}-2{{e}^{sT}}\cos 4\pi T +1}] $
+	
+	$2) [\frac{{{e}^{sT}}({{e}^{sT}}-\cos 16\pi T )}{{{e}^{2sT}}-2{{e}^{sT}}\cos 16\pi T +1}]$
+	
+	\lr{It is now evident why the starred transform are the same.}
+	
+	\raggedleft
 	
 	
 \end{problem}
-
 
 \raggedleft
 \section{ بخش تکمیلی (30 نمره)}
 \centering
 حل \underline{دو سوال} از این بخش الزامی است.
 \begin{problem}{سوال یازدهم}
+	\raggedleft
+	\lr{The main idea of solving this kind of questions is paying attention to the stability and Final Value Theorem.}
+	
+	\lr{Note that the given figures are the step response of the transfer functions. Meaning that you take into account a $\frac{1}{1-Z^{-1}}$ term multiplied by the transfer function.}
+	
+	\lr{Based on what is said we now begin to identify the unstable outputs.}
+	
+	\lr{$\bullet$ $G_4$ is unstable with having repeated poles on z = 1. This is C.}
+	
+	\lr{$\bullet$ $G_6$ is unstable for having a poles on z = 1.2. This is E.}
+	
+	\lr{The rest are stable.}
+	
+	\lr{$\bullet$Poles of $G_1$ are -0.1 and -0.7. We know that negative poles cause the step response to be oscillatory so both A and B could be the answer. In order to determine which the answer is, we use final value theorem which equals to 0.534759 this closer to B.}
+	
+	\lr{$\bullet$Poles of $G_2$ are 0.1 and 0.7. Both F and D could be the answer. In order to determine exactly which the answer is, we use final value theorem which equals to 3.70 this closer to D.}
+	
+	\lr{$\bullet$Poles of $G_3$ are 0.1 and 0.1. Both F and D could be the answer. In order to determine exactly which the answer is, we use final value theorem which equals to 1.23 this closer to F.}
+	
+	\lr{$\bullet$Poles of $G_5$ are 0.4 - 0.6i and 0.4 + 0.6i. It is in the stable region. In order to determine exactly which the answer is, we use final value theorem which equals to 1.38 this is A.}
 	
 	
 	

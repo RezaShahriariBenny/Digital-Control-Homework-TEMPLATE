@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.10)  15 APR 2024 14:45
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.10)  21 APR 2024 17:27
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1372,7 +1372,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 133--133
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 146--146
  [][][][] 
  []
 
@@ -1385,7 +1385,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 141--141
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 173--173
  [][][][] 
  []
 
@@ -1399,7 +1399,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 148--148
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 200--200
  [][][][] 
  []
 
@@ -1414,7 +1414,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 159--159
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 240--240
  [][][][] 
  []
 
@@ -1429,7 +1429,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 172--172
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 261--261
  [][][][] 
  []
 
@@ -1442,11 +1442,11 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 180--180
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 283--283
  [][][][] 
  []
 
-[4]
+[4] [5]
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
@@ -1456,7 +1456,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 191--191
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 313--313
  [][][][] 
  []
 
@@ -1471,12 +1471,13 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 202--202
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 324--324
  [][][][] 
  []
 
 File: Second Series/6.png Graphic file (type bmp)
 <Second Series/6.png>
+[6] [7]
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
@@ -1486,13 +1487,12 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 215--215
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 337--337
  [][][][] 
  []
 
 File: Second Series/7.png Graphic file (type bmp)
 <Second Series/7.png>
-[5] [6]
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
@@ -1502,7 +1502,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 227--227
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 349--349
  [][][][] 
  []
 
@@ -1515,11 +1515,11 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 236--236
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 358--358
  [][][][] 
  []
 
-[7] (main.aux)
+[8] [9] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
@@ -1530,12 +1530,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 25435 strings out of 409718
- 573771 string characters out of 5774132
- 1926189 words of memory out of 5000000
- 46934 multiletter control sequences out of 15000+600000
+ 25441 strings out of 409718
+ 573935 string characters out of 5774132
+ 1938189 words of memory out of 5000000
+ 46940 multiletter control sequences out of 15000+600000
  565578 words of font info for 90 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  106i,10n,110p,1311b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (7 pages).
+Output written on main.pdf (9 pages).
