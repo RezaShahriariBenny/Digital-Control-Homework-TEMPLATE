@@ -119,6 +119,7 @@
     
     
     \begin{problem}{سوال چهارم}
+    	\includegraphics[width=\linewidth]{Second Series/17.png}
     	
     	
     \end{problem}
@@ -248,7 +249,7 @@
 	\raggedleft
 	\lr{Recall the following equation:}
 	
-	$G(z)=(1-{{z}^{-1}})\,{{Z}^{-1}}\{\frac{G(s)}{s}\}$
+	$G(z)=(1-{{z}^{-1}})\,{{Z}}\{\frac{G(s)}{s}\}$
 	
 	\lr{using the equation we have the following ZOH-equavalent transfer function:}
 	
@@ -318,39 +319,196 @@
 
 
 \begin{problem}{سوال دوازدهم}
-
-
-
+	\raggedleft
+	\lr{As you can see in the picture below we could write:}
+	
+	* $C(s) = G_1(s) f(s)$
+	
+	$f(s) = R(s) -D^*(s)C^*(s) - G_2(s)C(s)$
+	
+	** $C(s) = \frac{R(s)G_1(s)}{1+G_1(s)G_2(s)} - \frac{G_1D^*(s)C^*(s)}{1+G_1(s)G_2(s)}$
+	
+	$C^*(s) = (\frac{R(s)G_1(s)}{1+G_1(s)G_2(s)})^* - (\frac{G_1}{1+G_2})^* D^*(s)C^*(s) $
+	
+	$C^*(s)(1 + (\frac{G_1}{1+G_2})^* D^*(s)) = (\frac{R(s)G_1(s)}{1+G_1(s)G_2(s)})^*$
+	
+	$C^*(s) = \frac{(\frac{R(s)G_1(s)}{1+G_1(s)G_2(s)})^*}{(1 + (\frac{G_1}{1+G_2})^* D^*(s))}$
+	
+	\lr{Now use the equation derived above inside the $**$ equation and then use it in the * equation to get the following:}
+	
+	$C(s) = \frac{R(s)G_1(s)}{1+G_1(s)G_2(s)} - \frac{G_1D^*(s)(\frac{(\frac{R(s)G_1(s)}{1+G_1(s)G_2(s)})^*}{(1 + (\frac{G_1}{1+G_2})^* D^*(s))})}{1+G_1(s)G_2(s)} $
+	
+	\lr{Similarly:}
+	
+	$C(z) = \frac{R(z)G_1(z)}{1+G_1(z)G_2(z)} - \frac{G_1D^*(z)(\frac{(\frac{R(z)G_1(z)}{1+G_1(z)G_2(z)})^*}{(1 + (\frac{G_1}{1+G_2})^* D^*(z))})}{1+G_1(z)G_2(z)} $
+	
+	
 \end{problem}
 \begin{figure}
 	\includegraphics[width=\linewidth]{Second Series/6.png}
 	\caption{شکل سوال دوازدهم}
 \end{figure}
-
-
 \begin{problem}{سوال سیزدهم}
+	\raggedleft
+	\lr{As you can see in the picture below we could write:}
+	
+	$E(s) =R(s) - H(s)Y(s)$
+	
+	$Y(s) = G_2(s)E(s) + G_1(s)E^*(s)$
+	
+	\lr{Draw the original SFG:}
+	
+	\includegraphics[width=\linewidth,]{Second Series/12.png}
+	
+	\lr{Change the equations so that Y is written in terms of R:}
+	
+	$Y(s) = G_2(s)(R(s) - H(s)Y(s)) + G_1(s)E^*(s)$
+	
+	$Y(s) +  G_2(s)H(s)Y(s) = G_2(s)R(s) + G_1(s)E^*(s)$
+	
+	$(1 + G_2(s)H(s))Y(s) = G_2(s)R(s) + G_1(s)E^*(s)$
+	
+	$Y(s) = \frac{G_2(s)R(s)}{(1 + G_2(s)H(s))} + \frac{G_1(s)E^*(s)}{(1 + G_2(s)H(s))}$
+	
+	$E(s) = \frac{R(s)}{1 + G_2(s)H(s)} - \frac{G_1(s)H(s)}{1 + G_2(s)H(s)} E^*(s)$
+	
+	$E^*(s) = (\frac{R(s)}{1 + G_2(s)H(s)})^* - (\frac{G_1(s)H(s)}{1 + G_2(s)H(s)})^* E^*(s)$
+	
+	\lr{Compute the starred transform:}
+	
+	$Y^*(s) = (\frac{G_2(s)R(s)}{(1 + G_2(s)H(s))})^* + (\frac{G_1(s)}{(1 + G_2(s)H(s))})^* E^*(s)$
+	
+	\lr{Three equations that help us draw the modified SFG:}
 	
 	
+	$Y(s) = \frac{G_2(s)R(s)}{(1 + G_2(s)H(s))} + \frac{G_1(s)E^*(s)}{(1 + G_2(s)H(s))}$
 	
 	
+	$Y^*(s) = (\frac{G_2(s)R(s)}{(1 + G_2(s)H(s))})^* + (\frac{G_1(s)}{(1 + G_2(s)H(s))})^* E^*(s)$
+	
+	$E^*(s) = (\frac{R(s)}{1 + G_2(s)H(s)})^* - (\frac{G_1(s)H(s)}{1 + G_2(s)H(s)})^* E^*(s)$
+	
+	
+	\lr{Let's write it in a more summarized manner:}
+	
+	$Y(s) = G_3 R(s) + G_4 E^*(s)$
+	
+	$Y^*(s) = (G_3 R(s))^* +  G_4^* E^*(s) $
+	
+	$E^* = G_6 + G_5 E^*(s)$
+	
+	\lr{It is obvious that we have:}
+	
+	$G_3 = (\frac{G_2(s)}{(1 + G_2(s)H(s))}) $
+	
+	$G_4 = (\frac{G_1(s)}{(1 + G_2(s)H(s))})$
+	
+	$G_5 = (\frac{G_1(s)H(s)}{1 + G_2(s)H(s)})^*$
+	
+	$G_6 = (\frac{R(s)}{1 + G_2(s)H(s)})^* $ 
+	
+	\includegraphics[scale=0.7]{Second Series/13.png}
 	
 \end{problem}
+
+\begin{problem}{ادامه سوال سیزدهم}
+	\raggedleft
+	\lr{In the previous page, you can see the modified SFG.}
+	
+	\lr{Obviously, you could derive $\frac{Y(s(z))}{R(s(z))}$ but not the $\frac{Y(s)}{R^*(s)}$}
+\end{problem}
+
 \begin{figure}
 	\includegraphics[width=\linewidth]{Second Series/7.png}
 	\caption{شکل سوال سیزدهم}
 \end{figure}
 
 \begin{problem}{سوال چهاردهم}
+	\raggedleft
+	\lr{Just like what we had in the second question, but here it is parallel, whereas in the Second question the Series implementation is asked:}
 	
+    $G(z) = \frac{-2.1575}{(z-0.1)} + \frac{2.1875z-1.875}{(z^2-0.5z+1)}$
+    
+    \lr{implement the first transfer function:}
+    
+    $G_1(z) = \frac{-2.1575z^{-1}}{1 - 0.1z^{-1}}$
+    
+    $G_2(z) = \frac{2.1875z^{-1}+ 1.875z^{-2}}{(1-0.5z^{-1}+z^{-2})}$
+    
+    \lr{we implement $G_1$:}
+    \includegraphics[width=\linewidth]{Second Series/14.png}
+    
+    \lr{we implement $G_2$:}
+    \includegraphics[width=\linewidth]{Second Series/15.png}
+    
+    
 	
+\end{problem}
+
+\begin{problem}{ادامه سوال چهاردهم}
+	\raggedleft
+	\lr{Now put them together}
 	
+	\includegraphics[width = \linewidth]{Second Series/16.png}
+	
+	\lr{Now for the second part of the problem}
+	
+	 \begin{align}
+		& \left( \begin{matrix}
+			{{{\dot{x}}}_{1}}  \\
+			{{{\dot{x}}}_{2}}  \\
+			{{{\dot{x}}}_{3}}  \\
+		\end{matrix} \right)=\left( \begin{matrix}
+			0 & 1 & 0  \\
+			0.5 & -1 & 0  \\
+			0 & 0 & -0.1  \\
+		\end{matrix} \right)\left( \begin{matrix}
+			{{x}_{1}}  \\
+			{{x}_{2}}  \\
+			{{x}_{3}}  \\
+		\end{matrix} \right)+\left( \begin{matrix}
+			0  \\
+			1  \\
+			0.3125  \\
+		\end{matrix} \right)u \\ 
+		& y=\left( \begin{matrix}
+			1.125 & \begin{matrix}
+				-0.3125 & 1  \\
+			\end{matrix}  \\
+		\end{matrix} \right)\left( \begin{matrix}
+			{{x}_{1}}  \\
+			{{x}_{2}}  \\
+			{{x}_{3}}  \\
+		\end{matrix} \right) \\ 
+	\end{align}
+	
+
 	
 	
 \end{problem}
 
 
 \begin{problem}{سوال پانزدهم}
+	\raggedleft
+	\lr{Use the following equation again:}
 	
+	$G(z)=(1-{{z}^{-1}})\,{{Z}}\{\frac{G(s)}{s}\}$
+	
+	\lr{We get:}
+	
+	$\frac{b}{a} + \frac{a-b}{a} \frac{1-z^{-1}}{1-e^{-aT}z^{-1}}$
+	
+	\lr{which is equal to :}
+	
+	$\frac{1 - (\frac{b}{a}e^{-aT} + \frac{a-b}{a})z^{-1}}{1 - e^{-aT}z^{-1}}$
+	
+	\lr{Which is always non-minimum phase here is why:}
+	
+	\lr{The zero is $(\frac{b}{a}e^{-aT} + \frac{a-b}{a})$ let us rewrite it like bellow:}
+	
+	$\frac{b}{a}(e^{-aT} - 1) + 1$
+	
+	\lr{Since $\frac{b}{a}$ is always negative and similarly $(e^{-aT} - 1)$ is always negative, the first term is always positive. Which means the zero is always greater than 1, hence the system is non-minimum phase.}
 	
 	
 	
