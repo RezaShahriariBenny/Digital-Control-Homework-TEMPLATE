@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.10)  22 APR 2024 13:52
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.10)  27 APR 2024 07:47
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1377,7 +1377,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 87--87
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 85--85
  [][][][] 
  []
 
@@ -1390,7 +1390,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 91--91
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 89--89
  [][][][] 
  []
 
@@ -1405,15 +1405,28 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 102--102
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 100--100
  [][][][] 
  []
 
 File: Second Series/5.png Graphic file (type bmp)
 <Second Series/5.png>
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 113--113
+ [][][][] 
+ []
+
 
 LaTeX Font Warning: Font shape `TU/BNAZANIN.TTF(0)/m/sl' undefined
-(Font)              using `TU/BNAZANIN.TTF(0)/m/n' instead on input line 106.
+(Font)              using `TU/BNAZANIN.TTF(0)/m/n' instead on input line 115.
 
 [1
 
@@ -1427,7 +1440,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 115--115
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 135--135
  [][][][] 
  []
 
@@ -1440,20 +1453,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 137--137
- [][][][] 
- []
-
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 148--148
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 146--146
  [][][][] 
  []
 
@@ -1468,13 +1468,12 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 163--163
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 161--161
  [][][][] 
  []
 
 File: Second Series/3.png Graphic file (type bmp)
 <Second Series/3.png>
-[2]
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
@@ -1484,7 +1483,21 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 182--182
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 180--180
+ [][][][] 
+ []
+
+[2] [3]
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 196--196
  [][][][] 
  []
 
@@ -1497,27 +1510,12 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 198--198
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 207--207
  [][][][] 
  []
 
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 209--209
- [][][][] 
- []
-
-[3]
 File: Second Series/1.png Graphic file (type bmp)
 <Second Series/1.png>
-
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
@@ -1527,7 +1525,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 223--223
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 221--221
  [][][][] 
  []
 
@@ -1542,7 +1540,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 238--238
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 236--236
  [][][][] 
  []
 
@@ -1557,11 +1555,10 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 255--255
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 253--253
  [][][][] 
  []
 
-[4] [5]
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
@@ -1571,11 +1568,11 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 267--267
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 265--265
  [][][][] 
  []
 
-[6] (main.aux)
+[4] [5] [6] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
@@ -1588,10 +1585,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  25443 strings out of 409718
  574915 string characters out of 5774132
- 1930189 words of memory out of 5000000
+ 1935189 words of memory out of 5000000
  46931 multiletter control sequences out of 15000+600000
  560527 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 106i,6n,110p,1311b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 106i,5n,110p,1311b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (6 pages).
