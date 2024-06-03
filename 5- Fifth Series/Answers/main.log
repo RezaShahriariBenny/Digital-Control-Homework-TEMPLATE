@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.10)  23 MAY 2024 14:28
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.10)  21 MAY 2024 12:42
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -11,9 +11,9 @@ L3 programming layer <2023-11-09>
 ls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 
-(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.cl
+(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.cl
 o
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
 \c@section=\count183
@@ -1252,12 +1252,12 @@ LaTeX Font Info:    ... okay on input line 35.
 * \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1270,91 +1270,9 @@ LaTeX Font Info:    ... okay on input line 35.
 File: Header.png Graphic file (type bmp)
 <Header.png>
 
-Package fontspec Info: Could not resolve font "Feelfree Personal Use/BI" (it
-(fontspec)             probably doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "Feelfree Personal Use/B" (it
-(fontspec)             probably doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "Feelfree Personal Use/I" (it
-(fontspec)             probably doesn't exist).
-
-
-Package fontspec Info: Font family 'FeelfreePersonalUse(0)' created for font
-(fontspec)             'Feelfree Personal Use' with options [Ligatures=TeX].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Feelfree Personal
-(fontspec)             Use/OT:language=dflt;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-LaTeX Info: Redefining \latinfont on input line 52.
-Missing character: There is no . in font Feelfree Personal Use Regular/OT:langu
-age=dflt;mapping=tex-text;!
-Missing character: There is no - in font Feelfree Personal Use Regular/OT:langu
-age=dflt;mapping=tex-text;!
-
-Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
-(fontspec)             New Roman' with options [Ligatures=TeX].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
-(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
-(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
-t;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
-(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
-(fontspec)             New
-(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
-ext;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
-(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"Times New
-(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
-ext;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
-(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
-
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"Times New
-(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
-text;"
-
-LaTeX Info: Redefining \latinfont on input line 59.
-
 LaTeX Font Warning: Font shape `TU/BNAZANIN.TTF(0)/b/n' undefined
-(Font)              using `TU/BNAZANIN.TTF(0)/m/n' instead on input line 61.
+(Font)              using `TU/BNAZANIN.TTF(0)/m/n' instead on input line 54.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
-
-
-(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.
-fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
-
-
-(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.
-fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 63
-.
-
-(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs
-.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
@@ -1366,13 +1284,61 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 File: Resources/1.png Graphic file (type bmp)
 <Resources/1.png>
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 69--69
- [][][][] 
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 73--73
+[][][] 
+ []
+
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+File: Resources/2.png Graphic file (type bmp)
+<Resources/2.png>
+
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 98--98
+[][][][] 
+ []
+
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+LaTeX Font Info:    Trying to load font information for U+msa on input line 104
+.
+
+(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.
+fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 104
+.
+
+(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.
+fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 10
+4.
+
+(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs
+.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 119--119
+[][][] 
  []
 
 
 LaTeX Font Warning: Font shape `TU/BNAZANIN.TTF(0)/m/sl' undefined
-(Font)              using `TU/BNAZANIN.TTF(0)/m/n' instead on input line 70.
+(Font)              using `TU/BNAZANIN.TTF(0)/m/n' instead on input line 120.
 
 [1
 
@@ -1385,190 +1351,12 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
-File: Resources/2.png Graphic file (type bmp)
-<Resources/2.png>
-File: Resources/2-2.png Graphic file (type bmp)
-<Resources/2-2.png>
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 75--75
- [][][][] 
- []
-
-[2]
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-File: Resources/3.png Graphic file (type bmp)
-<Resources/3.png>
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 80--80
- [][][][] 
- []
-
-[3]
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 85--85
- [][][][] 
- []
-
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 90--90
- [][][][] 
- []
-
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 108--108
- [][][][] 
- []
-
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 113--113
- [][][][] 
- []
-
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 119--119
- [][][][] 
- []
-
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 124--124
- [][][][] 
- []
-
-[4]
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 130--130
- [][][][] 
- []
-
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 139--139
- [][][][] 
- []
-
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 145--145
- [][][][] 
- []
-
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 153--153
- [][][][] 
- []
-
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
 
 \endL or \endR problem (0 missing, 1 extra) in paragraph at lines 159--159
- [][][][] 
+[][][][] 
  []
 
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 164--164
- [][][][] 
- []
-
-[5] (main.aux)
+[2] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
@@ -1579,12 +1367,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 25409 strings out of 409718
- 573966 string characters out of 5774132
- 1928189 words of memory out of 5000000
- 46902 multiletter control sequences out of 15000+600000
- 560519 words of font info for 79 fonts, out of 8000000 for 9000
+ 25329 strings out of 409718
+ 571267 string characters out of 5774132
+ 1929189 words of memory out of 5000000
+ 46842 multiletter control sequences out of 15000+600000
+ 563352 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 106i,5n,110p,1311b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 106i,16n,110p,1311b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (5 pages).
+Output written on main.pdf (2 pages).

@@ -1,0 +1,164 @@
+%%%%%%%%%%%% Attribution %%%%%%%%%%%%
+% This template was created by 
+% Chuck F. Rocca at WCSU and may be
+% copied and used freely for 
+% non-commercial purposes.
+% 10-17-2021
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%% Start Document Header %%%%%%%
+% In creating a new document
+% copy and paste the header 
+% as is.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[12pt]{article}
+
+%%%% Header Information %%%%
+    \input{header}
+
+%%%% Document Information %%%%
+    \title{تکلیف سری پنجم کنترل دیجیتال}
+    \date{نیسمال دوم 1402-1403}
+    \author{استاد درس : دکتر طالبی}
+
+%%%%%%% End Document Header %%%%%%%
+
+
+%%%% Begin Document %%%%
+% note that the document starts with
+% \begin{document} and ends with
+% \end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%
+\settextfont{BNAZANIN.TTF}
+
+\begin{document}
+
+%%%% Format Running Header %%%%%
+\markboth{\theauthor}{\thetitle}
+
+%%%% Insert the Title Information %%%
+% \maketitle
+
+
+%%%% General Description of the Document %%%%
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=\linewidth]{Header.png}
+    % \caption{Caption}
+    % \label{fig:enter-label}
+\end{figure}
+
+
+%%%% Introduction to the General Template %%%%
+\section{بخش اجباری}
+    \begin{problem}{سوال اول}
+    	(برنامه ریزی) جدول زیر سه پروسه را به همراه پریود تکرار، 
+    	\lr{deadline}
+    	نسبی و بدترین حالت زمان اجرا آنها نشان می‌دهد.
+    	\centering
+    	\includegraphics[scale=1]{Resources/1.png}
+    	
+    	\raggedright
+    	الف) مجموع ضرایب استفاده \lr{CPU} را محاسبه کنید.
+    	
+    	ب) آیا مجموعه \lr{Task} فوق با الگوریتم زمان بندی \lr{EDF} برنامه پذیر هستند؟
+    	
+    	ج) سوال (ب) را با الگوریتم زمان بندی 
+    	\lr{DM}
+    	و
+    	\lr{RM}
+    	تکرار کنید.
+
+    \end{problem}
+    
+    \begin{problem}{سوال دوم}
+    	(برنامه ریزی) مجموعه 
+    	\lr{Task}
+    	زیر داده شده است:
+    	
+    	\centering
+    	\includegraphics[scale=1]{Resources/2.png}
+    	
+    	\raggedright
+    	الف)نشان دهید که محموعه 
+    	\lr{Task}
+    	فوق تحت الگوریتم
+    	\lr{RM}
+    	قابل برنامه ریزی است.
+    	
+    	ب)کوچکترین پریود 
+    	\lr{Task B}
+    	را که محموعه 
+    	\lr{Task}
+    	فوق تحت الگوریتم 
+    	\lr{RM}
+    	قابل برنامه ریزی است را پیدا کنید. 
+    
+    \end{problem}
+    \section{بخش امتیازی}
+    \begin{problem}{سوال سوم}
+    	(طراحی رویتگر)سیستم زیر را در نظر بگیرید.
+    	
+    	
+    	\begin{align}
+    		& x(k+1)=\left( \begin{matrix}
+    			0.5 & 0  \\
+    			-1 & 0  \\
+    		\end{matrix} \nonumber \right)x(k)+\left( \begin{matrix}
+    			1  \\
+    			0  \\
+    		\end{matrix} \nonumber \right)u(k) \\ 
+    		& y(k)=\left( \begin{matrix}
+    			0 & 1  \\
+    		\end{matrix} \right)x(k) \nonumber
+    	\end{align}
+    	
+    	یک رویتگر برای تخمین حالت های سیستم طراحی کنید. قطب های رویتگر را به گونه ای انتخاب کنید که برای یک سیستم کنترل حلقه بسته با قطب های معادل پیوسته در -1 کارایی لازم را داشته باشد
+    	
+    \end{problem}
+    
+
+    
+    \begin{problem}{سوال چهارم}
+    (طراحی رویتگر) یکی از روش های طراحی رویتگر و کنترلگر کامل روش بس و گیورا می‌باشد. این روش به صورت فرمول زیر نوشته می‌شود 
+    
+    \raggedleft
+    $L^T = (\alpha - a)\Psi^{-1}\Phi_c^{-1}$
+    
+    \raggedright
+    که در آن 
+    \lr{L}
+    رویتگر می‌باشد و $\Psi$ ماتریس  افزوده و $\Phi_c$ ماتریس کنترل پذیری می‌باشد.
+    
+    اگر بدانیم $\alpha$ معادله مشخصه مطلوب است و $a$ معادله مشخصه اولیه می‌باشد. با اطلاعات زیر در مورد سیستم و پارامتر ها ماتریس \lr{L} را بیابید.
+    
+    \raggedleft
+     $A=\left( \begin{matrix}
+     	0 & 1  \\
+     	20.6 & 0  \\
+     \end{matrix} \right)$
+     
+     \raggedright
+     اگر بدانیم :
+     \begin{align}
+     	& {{\Phi }_{c}}=\left( \begin{matrix}
+     		0 & 1  \\
+     		1 & 0  \\
+     	\end{matrix} \right) \nonumber \\ 
+     	& \Psi =\left( \begin{matrix}
+     		1 & 0  \\
+     		0 & 1  \\
+     	\end{matrix} \right)\nonumber 
+     \end{align}
+     
+     قطب های مطلوب عبارتند از 
+     $s = -1.8 \pm j2.4$
+     
+     
+    \end{problem}
+    
+    
+
+
+\end{document}
