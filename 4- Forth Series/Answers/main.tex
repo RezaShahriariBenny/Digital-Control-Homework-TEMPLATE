@@ -234,12 +234,65 @@
     \end{figure}
     
     \begin{problem}{سوال چهارم}
-
+    	\raggedleft
+    	\lr{First let's Design the controller:}
+    	
+    	\lr{the Desired poles are calculated as follows:}
     	
     	
-
+    	$\zeta = \sqrt{\frac{\ln(PO)^2}{\pi(\ln(PO))^2}} = 0.718$
+    	
+    	$t_s = \frac{4}{\zeta \omega_n} => \omega_n = 3.95  $
+    	
+    	$s = -\zeta\omega_n \pm j\omega_n\sqrt{1-\zeta^2}$
+    	
+    	$s = -2.22 \pm j2.74$
+    	
+    	
+    	
+    	
+    	\raggedleft
+    	
+    	\lr{We Define:}
+    	
+    	$\phi_1$ : \lr{angle of the pole -100}
+    	
+    	$\phi_2$ : \lr{angle of the pole -1}
+    	
+    	$\phi_3$ : \lr{angle of the pole 0}
+    	
+    	$\theta_1$ : \lr{it's 90 degrees : angle of the zero}
+    	
+    	\lr{Angle Condition:}
+    	
+    	\raggedleft
+    	$-\phi_1 - \theta_1 + 90 - \phi_2 - \phi_3 = 180$
+    	
+    	$-tan^{-1}(\frac{2.74}{97.78}) - \theta_1 + 90 - (180 - tan^{-1}(\frac{2.74}{1.22})) - (180 - tan^{-1}(\frac{2.74}{2.22})) = 180$
+    	
+    	$\theta_1 = 24.34$
+    	
+    	$G_c = K \frac{s+2.22}{s+8.3}$
+    	
+    	$|GG_c(s = -2.22+j2.74)| = 1$
+    	
+    	$\frac{100K(2.74)}{\sqrt{2.22^2+2.74^2} \sqrt{1.22^2+2.74^2} \sqrt{97.78^2 + 2.74^2} \sqrt{6.08^2 + 2.74^2}} = 1$
+    	
+    	$K = 25.181$
+    	
+    	$G_c = 25.181\frac{s+2.22}{s+8.3}$
+    	
+    	\lr{With sampling time of 0.1 we would have:}
+    	
+    	$G_{C,ZP} =19.08 \frac{z - 0.8}{z-0.436}$
+    	
+    	 
+    	
     	
     \end{problem}
+    \centering
+    \includegraphics[scale=0.7]{Resources/5.png}
+    \includegraphics[scale=0.7]{Resources/6.png}
     
     \begin{problem}{سوال پنجم}
     	\raggedleft

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.10)  16 MAY 2024 16:09
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.10)  7 JUN 2024 23:21
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1352,11 +1352,20 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 242--242
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 292--292
  [][][][] 
  []
 
 [3]
+Overfull \vbox (10.35786pt too high) has occurred while \output is active []
+
+
+[4]
+File: Resources/5.png Graphic file (type bmp)
+<Resources/5.png>
+File: Resources/6.png Graphic file (type bmp)
+<Resources/6.png>
+
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
@@ -1366,10 +1375,11 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 258--258
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 311--311
  [][][][] 
  []
 
+[5]
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
@@ -1381,15 +1391,15 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 File: Resources/4.png Graphic file (type bmp)
 <Resources/4.png>
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 294--294
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 347--347
  [][][][] 
  []
 
-[4]
+[6]
 Overfull \vbox (22.86073pt too high) has occurred while \output is active []
 
 
-[5] (main.aux)
+[7] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
@@ -1400,12 +1410,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 25367 strings out of 409718
- 572207 string characters out of 5774132
+ 25382 strings out of 409718
+ 572482 string characters out of 5774132
  1937189 words of memory out of 5000000
- 46876 multiletter control sequences out of 15000+600000
+ 46889 multiletter control sequences out of 15000+600000
  566471 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  106i,20n,110p,1311b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (5 pages).
+Output written on main.pdf (7 pages).
