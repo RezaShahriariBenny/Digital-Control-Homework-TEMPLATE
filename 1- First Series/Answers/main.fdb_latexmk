@@ -1,0 +1,9 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "main.xdv" "main.pdf" "main" 0
+  "main.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "main.pdf"
+["xelatex"] 1717405379 "/media/reza/5C429C08429BE554/Github/Digital-Control-Homework-TEMPLATE/1- First Series/Answers/main.tex" "main.xdv" "main" 1717405379
+  (generated)
+  "main.log"
+  "main.xdv"
