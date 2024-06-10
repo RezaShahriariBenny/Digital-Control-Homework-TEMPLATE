@@ -19,7 +19,13 @@ The First Series mainly deals with the Following topics
 - Controller Design in continuous time 
 - Controller Design in Frequency (continuous)
 Links:
-HomeWork1:
-[HomeWork 1](https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/main/1-%20First%20Series/%D8%AA%D9%85%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%DB%8C%20%D8%A7%D9%88%D9%84/main.pdf)
+-HomeWork1:
+```
+https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/main/1-%20First%20Series/%D8%AA%D9%85%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%DB%8C%20%D8%A7%D9%88%D9%84/main.pdf
+```
+-HomeWork1 Answers:
+```
+https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/main/1-%20First%20Series/Answers/main.pdf
+```
 
 
