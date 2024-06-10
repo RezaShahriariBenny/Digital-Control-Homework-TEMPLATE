@@ -1,21 +1,21 @@
 This repository is dedicated to the good students of digital control - Dr.Talebi, and all the control engineers around the world. Hope you find it helpful.
 # Contents Of Digital Control
-- Controller Design in continuous time (<bold> First Series of Homework </bold>)
-- Controller Design in Frequency (continuous) (<bold> First Series of Homework </bold>)
-- Z-transform (<bold> Second Series of Homework </bold>)
-- Realization (Canonical, Series, Parallel) (<bold> Second Series of Homework </bold>)
-- Zero-Order Hold, First-Order Hold (<bold> Second Series of Homework </bold>)
-- The circuits of A2D (Analog-to-Digital) (<bold> Third Series of Homework </bold>)
-- The circuits of D2A (Digital-to-Analog) (<bold> Third Series of Homework </bold>)
-- Starred Transform (<bold> Second Series of Homework </bold>)
-- Signal Flow Graph Model for Starred Transform (<bold> Second and Third Series of Homework </bold>)
-- Discretization (<bold> Forth Series of Homework </bold>)
-- Steady-State Error and Jury's test (<bold> Forth Series of Homework </bold>)
-- Discrete Root Locus (<bold> Forth Series of Homework </bold>)
-- Scheduling in systems working in real-time (<bold> Forth and Fifth Series of Homework </bold>)
+- Controller Design in continuous time (**First Series of Homework**)
+- Controller Design in Frequency (continuous) (**First Series of Homework**)
+- Z-transform (**Second Series of Homework**)
+- Realization (Canonical, Series, Parallel) (**Second Series of Homework**)
+- Zero-Order Hold, First-Order Hold (**Second Series of Homework**)
+- The circuits of A2D (Analog-to-Digital) (**Third Series of Homework**)
+- The circuits of D2A (Digital-to-Analog) (**Third Series of Homework**)
+- Starred Transform (**Second Series of Homework**)
+- Signal Flow Graph Model for Starred Transform (**Second and Third Series of Homework**)
+- Discretization (**Forth Series of Homework**)
+- Steady-State Error and Jury's test (**Forth Series of Homework**)
+- Discrete Root Locus (**Forth Series of Homework**)
+- Scheduling in systems working in real-time (**Forth and Fifth Series of Homework**)
 
-## HomeWorks:
-The First Series mainly deals with the Following topics
+## HomeWork1:
+The First Series mainly deals with the Following topics:
 - Controller Design in continuous time 
 - Controller Design in Frequency (continuous)
 
@@ -27,7 +27,13 @@ https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TE
 ```
 https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/main/1-%20First%20Series/Answers/main.pdf
 ```
+## HomeWork2:
+The Second Series mainly deals with the Following topics:
 - HomeWork 2:
+- Realization (Canonical, Series, Parallel)
+- Zero-Order Hold, First-Order Hold
+- Starred Transform
+- Signal Flow Graph Model for Starred Transform
 ```
 https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/53161e2f5d32e45e291e455763dbcd11a453fc85/2-%20Second%20Series/main.pdf
 ```
@@ -35,6 +41,11 @@ https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TE
 ```
 https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/53161e2f5d32e45e291e455763dbcd11a453fc85/2-%20Second%20Series/Answers/main.pdf
 ```
+## HomeWork 3:
+The Third Series mainly deals with the Following topics:
+- Signal Flow Graph Model for Starred Transform
+- The circuits of D2A (Digital-to-Analog)
+- The circuits of A2D (Analog-to-Digital)
 - HomeWork 3:
 ```
 https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/53161e2f5d32e45e291e455763dbcd11a453fc85/3-%20Third%20Series/main.pdf
@@ -43,6 +54,12 @@ https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TE
 ```
 https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/53161e2f5d32e45e291e455763dbcd11a453fc85/3-%20Third%20Series/Answers/main.pdf
 ```
+## HomeWork 4:
+The Forth Series mainly deals with the Following topics:
+- Discretization
+- Steady-State Error and Jury's test
+- Discrete Root Locus
+- Scheduling in systems working in real-time 
 - HomeWork 4:
 ```
 https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/53161e2f5d32e45e291e455763dbcd11a453fc85/4-%20Forth%20Series/main.pdf
@@ -51,6 +68,9 @@ https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TE
 ```
 https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/53161e2f5d32e45e291e455763dbcd11a453fc85/4-%20Forth%20Series/Answers/main.pdf
 ```
+## HomeWork 5:
+The Fifth Series mainly deals with the Following topics:
+- Scheduling in systems working in real-time 
 - HomeWork 5:
 ```
 https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/53161e2f5d32e45e291e455763dbcd11a453fc85/5-%20Fifth%20Series/main.pdf
