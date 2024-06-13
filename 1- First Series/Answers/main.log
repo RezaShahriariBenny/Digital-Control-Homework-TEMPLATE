@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.10)  6 JUN 2024 18:38
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.10)  13 JUN 2024 21:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1457,7 +1457,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 282--282
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 331--331
  [][][]
  []
 
@@ -1471,7 +1471,7 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 288--288
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 379--379
  [][][][]
  []
 
@@ -1494,7 +1494,21 @@ Missing character: There is no ، in font cmr10!
 Missing character: There is no ، in font cmr10!
 Missing character: There is no و in font cmmi10!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 325--325
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 416--416
+ [][][][]
+ []
+
+[8]
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
+=arab;mapping=persian-tex-text;!
+
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 440--440
  [][][][]
  []
 
@@ -1507,24 +1521,11 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 349--349
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 451--451
  [][][][]
  []
 
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 360--360
- [][][][]
- []
-
-[8] (main.aux)
+[9] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
@@ -1537,10 +1538,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  25407 strings out of 409718
  572860 string characters out of 5774132
- 1936189 words of memory out of 5000000
+ 1941189 words of memory out of 5000000
  46910 multiletter control sequences out of 15000+600000
  565570 words of font info for 89 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  106i,9n,110p,1311b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (8 pages).
+Output written on main.pdf (9 pages).
