@@ -77,5 +77,5 @@ https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TE
 ```
 - HomeWork 5 Answers:
 ```
-https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/53161e2f5d32e45e291e455763dbcd11a453fc85/5-%20Fifth%20Series/Answers/main.pdf
+https://raw.githubusercontent.com/RezaShahriariBenny/Digital-Control-Homework-TEMPLATE/e5f3de3619567a187875bd1e55643d99b58b99d8/5-%20Fifth%20Series/Answers/main.pdf
 ```
