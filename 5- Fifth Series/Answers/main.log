@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.10)  21 MAY 2024 12:42
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10.12) (preloaded format=xelatex 2023.12.10)  14 JUN 2024 22:18
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1283,8 +1283,28 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 =arab;mapping=persian-tex-text;!
 File: Resources/1.png Graphic file (type bmp)
 <Resources/1.png>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 73--73
+
+(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.
+fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
+
+
+(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.
+fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 63
+.
+
+(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs
+.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 97--97
 [][][] 
  []
 
@@ -1299,64 +1319,17 @@ Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
 File: Resources/2.png Graphic file (type bmp)
 <Resources/2.png>
 
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 98--98
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 138--138
 [][][][] 
- []
-
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-LaTeX Font Info:    Trying to load font information for U+msa on input line 104
-.
-
-(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.
-fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 104
-.
-
-(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.
-fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 10
-4.
-
-(C:\Users\Reza Shahriari\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs
-.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 119--119
-[][][] 
  []
 
 
 LaTeX Font Warning: Font shape `TU/BNAZANIN.TTF(0)/m/sl' undefined
-(Font)              using `TU/BNAZANIN.TTF(0)/m/n' instead on input line 120.
+(Font)              using `TU/BNAZANIN.TTF(0)/m/n' instead on input line 139.
 
 [1
 
-]
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-Missing character: There is no W in font [BNAZANIN.TTF]/OT:language=dflt;script
-=arab;mapping=persian-tex-text;!
-
-\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 159--159
-[][][][] 
- []
-
-[2] (main.aux)
+] [2] (main.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
@@ -1367,12 +1340,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 25329 strings out of 409718
- 571267 string characters out of 5774132
+ 25326 strings out of 409718
+ 571214 string characters out of 5774132
  1929189 words of memory out of 5000000
- 46842 multiletter control sequences out of 15000+600000
+ 46839 multiletter control sequences out of 15000+600000
  563352 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 106i,16n,110p,1311b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 106i,10n,110p,1311b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on main.pdf (2 pages).
